@@ -1,0 +1,20 @@
+{
+  "name": "project_bookshowcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munafmd9849/project_bookShowcase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munafmd9849/project_bookShowcase/issues"
+  },
+  "homepage": "https://github.com/munafmd9849/project_bookShowcase#readme"
+}
